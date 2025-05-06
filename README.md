@@ -6,11 +6,10 @@ This project demonstrates a production-grade machine learning pipeline orchestra
 - **ML model training/evaluation** for ride duration prediction
 - **Conditional model deployment** logic using `BranchPythonOperator`
 - **AWS S3** as the data lake for input/output data
-- Designed as part of a hands-on Week 4 assignment in an advanced data engineering course
 
 ---
 
-## 🧠 Pipeline Objective
+##  Pipeline Objective
 
 Estimate ride durations for three fictional Mobility-as-a-Service vendors:
 - `Easy Destiny`
