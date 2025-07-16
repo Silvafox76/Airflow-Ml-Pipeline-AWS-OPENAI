@@ -52,3 +52,8 @@ Each vendor has separate training data, unique model performance thresholds, and
               +-----------+
               |   End     |
               +-----------+
+
+
+🙋‍♂️ Author
+Ryan Dear
+GitHub | LinkedIn | Email
